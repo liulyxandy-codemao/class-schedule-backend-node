@@ -1,0 +1,8 @@
+{
+  "name": "class-schedule-backend-node",
+  "private": true,
+  "dependencies": {
+    "koa": "^3.0.0",
+    "sequelize": "^6.37.7"
+  }
+}
